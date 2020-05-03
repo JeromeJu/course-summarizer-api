@@ -1,2 +1,3 @@
-# Course-Summarizer-api - v2
+# Course-Summarizer-api
+Modified latest version
 Final project for Udemy course
